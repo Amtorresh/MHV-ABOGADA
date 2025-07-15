@@ -340,7 +340,7 @@ border: none;
     text-align: center;
 }
 
-.contacto h2 {
+.contacto3 h2 {
     color: #fff;
 }
 
@@ -372,14 +372,14 @@ border: none;
 }
 
 .contacto3{
-    
+
     padding: 60px;
     border: #FFBD59 solid 1px;
     text-align: center;
 }
 
 .contacto2 {
-
+    margin: 40px 0px;
     position: relative;
     display: flex;
     flex-wrap: wrap;
@@ -448,8 +448,8 @@ form h2 {
 
 .enviar {
     width: 160px;
-    color: #fff;
-    background-color: #d4ac0d;
+    color: 154360;
+    background-color: #FFBD59;
     padding: 20px;
     font-size: 16px;
     text-transform: uppercase;
